@@ -1,0 +1,220 @@
+UNIVERSITY OF CALIFORNIA SAN DIEGO - ACADEMIC CONNECTIONS - 2024-25 - HOMEWORK LIST
+(ALL THE QUESTION AND DATASETS ARE THERE IN HW QUESTIONS FOLDER. ALL THE ANSWERS THAT I HAVE WRITTEN AND SUBMITTED ARE IN HW SUBMISSION FOLDER.)
+
+HOME WORK 1
+
+
+TOPIC 1
+90 PROBLEMS TO GET STARTED
+So glad we got the first class out of the way.
+Wonderful work Everyone. 
+Please upload .IPYNB here. I would prefer all the cells to already be run when you save it. 
+Please as instructed in class include all relevant coding notes and sources. 
+Please also include how long it took you to complete all the problems you could complete.
+You do not have to complete all the problems.
+
+ 
+TOPIC 2
+INTRO TO PYTHON 1 SET
+Intro to Python Problems If you finish the other problems and don't have enough work
+
+FLOWERS MACHINE LEARNING PROJECT
+We are doing Machine Learning today
+(Tentative) Please submit completed python workbooks if we don't complete them in class.
+(Required) Please submit completed Flowers Machine Learning Project
+
+
+TOPIC 3
+Work from Intro Topics. Please Complete the Following
+
+MORE INTRO PROBLEMS
+GEOMETRIC ART(https://github.com/tolgaatam/ColabTurtle)
+CHATBOT
+BIOINFORMATICS
+MAKING A HEART WITH PYTHON
+
+
+
+
+HOME WORK 2
+
+
+TOPIC 1
+ONLINE TUTORIALS(I chose three)
+Several of you asked for other examples in machine learning that we would have no way of covering in this short amount of time. If you look online there are plenty of examples of deep learning, neural networks, natural language processing etc. I have provided some here. Please complete 1 or 2 the examples with code and markdown/text that explain what you were able to learn from these. Especially if these examples are different than the ones we did in class. I would key in on the Keras Code examples or Credit Card Fraud detections those looked fun.
+
+https://www.one-tab.com/page/Yw4ttU7sRnixWWan4Hbehw
+(The one tab link)
+
+KERAS TUTORIAL: THE ULTIMATE BEGINNER'S GUIDE TO DEEP LEARNING IN PYTHON
+INTRO AND APPROACHING A MACHINE LEARNING PROBLEM
+CREDIT CARD FRAUD DETECTION WITH MACHINE LEARNING IN PYTHON
+
+
+TOPIC 2
+LOAN ASSIGNMENT:
+Fill in Code:  I have removed a lot of the code from them that makes them work. You are to fill in the code to complete the IPYNB and this complete the study. Identify any new commands that you needed to implement, and what you learned from the overall exercise. I uploaded a baddataset and a gooddataset.
+Loan Repayment (I really think this will help with your understanding of Machine Learning and what how they compare models to determine what to do)
+
+
+WINE PROJECT:
+Please Also Complete tutorial on predicting wine quality. Focus on adding notes for new syntax or modules. Complete the requested add ons from lecture
+https://www.kaggle.com/code/kdsharma/predicting-wine-quality-88-accuracy/log
+I have uploaded dataset.
+
+
+
+
+
+
+HOME WORK 3
+TOPIC 1 
+DATA SCIENCE PROJECT 
+I'm giving you until after your Final Project is due to complete this. 
+Go to this github link: It has tons of projects in data science: https://github.com/veb-101/Data-Science-Projects
+
+1. Complete 1 Intermediate Example on this page
+2. Complete 1 Advanced Example on this page
+
+Earn points by completing the example, exposing any errors in the code, attempting to solve any errors in the code, and notetaking on new libraries and functionalities learned by completing these examples You need to turn in two different .ipynbs for this.
+
+I CHOSE:
+INTERMEDIATE LEVEL CHATBOT
+ADVANCED LEVEL BREAST CANCER CLASSIFICATION		
+
+
+
+TOPIC 2 
+
+
+PYTHON FOR FINANCE [Includes masking]
+https://analyzingalpha.com/yfinance-python
+
+https://pandas-datareader.readthedocs.io/en/latest/
+
+https://thomas-20.medium.com/plot-finance-data-with-python-898b652c1716
+
+https://medium.com/financial-data-analysis/using-yfinance-to-download-financial-data-python-57f2f31e0f9e
+
+This doesn't 100% work but may give you ideas Download Copy_of_prophet_yfinance.ipynb
+Download PythonforFinance_Assign.ipynb
+Download PythonForFinance_withclassnotes (1).ipynb
+
+
+
+LINKED LISTS
+https://herovired.com/learning-hub/blogs/linked-list-in-a-data-structure/
+
+https://www.alphacodingskills.com/python/ds/python-linked-list-search-an-element.php
+
+https://herovired.com/learning-hub/blogs/linked-list-in-a-data-structure/
+
+https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#
+
+https://towardsdatascience.com/python-linked-lists-c3622205da81
+
+https://www.geeksforgeeks.org/python-program-for-searching-an-element-in-a-linked-list/
+
+https://builtin.com/data-science/python-linked-list
+
+
+TOPIC 4
+
+
+Please go through at least two of the following webscraping tutorials to make sure you understand. Take notes. Identify things you are seeing for the first time. If there are errors in the code attempt to fix them by trial and error or googling the fix.
+Download YSI_Web_Scraping_Tutorial.ipynb
+Download FlatironSchool_Web_Scraping_101_share.ipynb
+Download WebScrapingExample_RequestVsBeautifulSoup.ipynb
+https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/
+https://realpython.com/python-web-scraping-practical-introduction/
+
+
+Please go dive deep in the links below and try your hand at making visualizations you haven't done before. Please submit at least 3 visualizations you haven't done before or learned more about 
+
+https://mode.com/blog/python-data-visualization-libraries/Links to an external site. This has a lot of different and cool libraries 
+https://machinelearningmastery.com/data-visualization-in-python-with-matplotlib-seaborn-and-bokeh/Links to an external site.
+You may also edit and make new visualizations of the ones we did in class
+https://www.kaggle.com/code/benhamner/python-data-visualizationsLinks to an external site.
+https://mode.com/blog/python-interactive-plot-libraries/Links to an external site.
+
+Any additional webscraping past 2 or data visualizations past 3 will count as extra credit. 
+
+I CHOSE:
+WEB SCRAPING- FLATIRON SCHOOL, WEB SCRAPING EXAMPLE
+DATA VISUALIZATION - 5(IN IPYNB)
+
+
+TOPIC 5 
+Bonus Assignment due to Class Interest
+
+Pick two of the below and complete. Point out/Correct errors in code. Point out things that you learn or find interesting. See if other code you've used for class can improve the code. Add a markdown at the end that explains your work. If you look up the document names you should be able to find the links associated.
+
+Download Image Classification.ipynb
+Download lecture1216.ipynb
+Download image_classification_CIFAR10.ipynb
+Download ML - Image Recognition.ipynb
+Download Image Classification.ipynb
+Download automobile-classification-ipynb.ipynb
+
+https://clear.ml/docs/latest/docs/guides/frameworks/pytorch/notebooks/image/image_classification_CIFAR10/
+
+https://github.com/AMoazeni/Machine-Learning-Image-Classification/blob/master/Jupyter%20Notebook/ML%20-%20Image%20Recognition.ipynb
+
+https://github.com/zengsn/image-processing-python/blob/master/lecture1216.ipynb
+
+https://www.kaggle.com/code/soumyendupal/automobile-classification-ipynb/notebook
+I CHOSE(I DIDN'T ADD THAT MANY NOTES.):
+ML-IMAGE RECOGNITION
+IMAGE CLASSIFICATION
+
+
+
+FINAL PROJECT
+PNEUMONIA DETECTION MODEL USING CNN
+FIRST TRY MODEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
